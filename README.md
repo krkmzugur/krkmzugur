@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Uğur</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">Another front-end developer from Turkey</h3>
+
+🌱 As I specialize in advanced technologies like React, JavaScript, and TypeScript, I continuously deepen my knowledge.
+
+📚 My intellectual curiosity for new information and technologies constantly drives me to learn and share what I’ve gained. I’m always open to constructive discussions and collaborations on React JS, Redux, and JavaScript.
+
+📱 I am also interested in mobile development. Flutter and React Native have captured my attention.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krkmzugur&label=Profile%20views&color=0e75b6&style=flat" alt="krkmzugur" /> </p>
 
