@@ -1,12 +1,11 @@
-<h1 align="left">Hi 👋, I'm Uğur</h1>
-<h3 align="left">Another front-end developer from Turkey</h3>
+<h1 align="left">Hi 👋 , I'm Uğur</h1>
+<h3 align="left">About me...</h3>
 
 🌱 As I specialize in advanced technologies like React, JavaScript, and TypeScript, I continuously deepen my knowledge.
 
 📚 My intellectual curiosity for new information and technologies constantly drives me to learn and share what I’ve gained. I’m always open to constructive discussions and collaborations on React JS, Redux, and JavaScript.
 
 📱 I am also interested in mobile development. Flutter and React Native have captured my attention.
-
 
 
 - 🌱 I’m currently learning **React**
