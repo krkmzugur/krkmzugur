@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Uğur</h1>
-<h3 align="center">Another front-end developer from Turkey</h3>
+<h1 align="left">Hi 👋, I'm Uğur</h1>
+<h3 align="left">Another front-end developer from Turkey</h3>
 
 🌱 As I specialize in advanced technologies like React, JavaScript, and TypeScript, I continuously deepen my knowledge.
 
