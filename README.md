@@ -8,7 +8,7 @@
 📱 I am also interested in mobile development. Flutter and React Native have captured my attention.
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React,React Native**
 
 - 💬 Ask me about **react, git and mobile**
 
